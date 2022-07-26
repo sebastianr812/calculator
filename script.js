@@ -167,6 +167,9 @@ function handleKeyPress(e){
      if(e.key==='Backspace'){
         handleDelete()
      }
+     if(e.key==='Esacpe'){
+         clearCalculator()
+     }
      
      
      
